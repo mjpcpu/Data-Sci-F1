@@ -1,0 +1,1 @@
+data practise project using kaggles F1 data. Focus on Ferrari.
